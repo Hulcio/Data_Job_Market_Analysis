@@ -38,7 +38,7 @@
 
 * ###  What are the best paid positions in data industry and which companies offer the most remote opportunities and highest salaries
 
-**SQL QUERY** : [SQL QUERY](SQL_queries\sql_query_1.sql)
+**SQL QUERY** : [SQL QUERY](SQL_queries/sql_query_1.sql)
 
 **Visualization and Key Findings :**
 
@@ -62,7 +62,7 @@
 
 * ###  Do the remote work opportunities, benefits like insurance, and the lack of degree requirements affect salaries?
 
-**SQL QUERY** : [SQL QUERY](SQL_queries\sql_query_2.sql)
+**SQL QUERY** : [SQL QUERY](SQL_queries/sql_query_2.sql)
 
 **Visualization and Key Findings :**
 
@@ -82,7 +82,7 @@
 
 * ###  What are the most financially rewarding and most frequently required skills for DATA ANALYST ?
 
-**SQL QUERY** : [SQL QUERY](SQL_queries\sql_query_3.sql)
+**SQL QUERY** : [SQL QUERY](SQL_queries/sql_query_3.sql)
 
 **Visualization and Key Findings :**
 
@@ -101,7 +101,7 @@
 
 * ###  When is the best time to search for data-related jobs?
 
-**SQL QUERY** : [SQL QUERY](SQL_queries\sql_query_4.sql)
+**SQL QUERY** : [SQL QUERY](SQL_queries/sql_query_4.sql)
 
 **Visualization and Key Findings :**
 ![Number of total remote job postings](/charts/SQL_8_chart.png)
