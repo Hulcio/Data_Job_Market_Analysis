@@ -29,9 +29,9 @@
 
 ## Building tables and copying data from .CSV files
 
-*Building tables* : [Building tables](creating_tables\1_building_tables.sql)
+*Building tables* : [Building tables](creating_tables/1_building_tables.sql)
 
-*Copying Data* : [Copying Data](creating_tables\2_copying_data_from_csv.sql)
+*Copying Data* : [Copying Data](creating_tables/2_copying_data_from_csv.sql)
 
 
 ## The Analysis
