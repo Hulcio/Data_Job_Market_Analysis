@@ -119,7 +119,7 @@
 
 *The analysis of the 2023 data job market reveals strong correlations between technical specialization, remote flexibility, and compensation. Seniority and rare technical skills yield the highest salaries, while benefits such as insurance further elevate job value. Remote work continues to be a significant driver of compensation, especially in more experienced roles.*
 
-*From a skills standpoint, foundational tools like SQL and Python remain essential, but niche tools like Kafka or Cassandra provide a strategic advantage for maximizing salary. Furthermore, the job market exhibits clear seasonal patterns — January, August, and October emerge as the best months to actively pursue opportunities.*
+*From a skills standpoint, foundational tools like SQL and Python remain essential, but niche tools like Kafka or Cassandra provide a strategic advantage for maximizing salary. Furthermore, the job market exhibits clear seasonal patterns January, August, and October emerge as the best months to actively pursue opportunities.*
 
 
 # Closing Thoughts
@@ -130,7 +130,7 @@
 The best time to search for data-related jobs is in January, with a second surge in late summer and early fall. Targeting these peak periods can significantly increase job search success.
 
 ### Build the basics:
- Foundational skills like SQL, Python, and Power BI are essential and commonly required across most roles. However, professionals looking to boost their salaries should consider learning niche or advanced tools such as Kafka, Cassandra, or Perl — which, while less frequently requested, command higher compensation.
+ Foundational skills like SQL, Python, and Power BI are essential and commonly required across most roles. However, professionals looking to boost their salaries should consider learning niche or advanced tools such as Kafka, Cassandra, or Perl which, while less frequently requested, command higher compensation.
 
 ### Benefits and flexibility drive value:
  Jobs that offer insurance benefits and remote work options tend to offer notably higher salaries, especially in senior or technical roles. These factors are increasingly shaping candidate preferences and employer competitiveness.
